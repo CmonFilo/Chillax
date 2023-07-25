@@ -16,6 +16,7 @@ body {
 .footer-text,
 .copyright-text {
   font-family: "Inconsolata", monospace;
+  font-size: large;
 }
 /* navbar */
 .navbar {
